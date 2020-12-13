@@ -1,4 +1,14 @@
+
 {
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "***This notebook is mainly written by Yuan and Yoyo for the end-of-semester project of Machine Learning, Fall 2020***\n"
+   ]
+  },
+  {
  "cells": [
   {
    "cell_type": "code",
